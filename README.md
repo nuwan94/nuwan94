@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi!!! I'm Nuwan 👋
 
-<!--
-**nuwan94/nuwan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views counter](https://komarev.com/ghpvc/?username=nuwan94)
 
-Here are some ideas to get you started:
+#### I'm a Full-Stack Developer in Gampaha, Sri Lanka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently studying at **University of Kelaniya**
+- ⚙️ I use daily: `.ts`, `.js`, `.jsx`, `.vue`, `.html`, `.css`, `.scsc`,
+- 🌍 I'm mostly active within the **JavaScript Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **development**, **designing**, **react**, **vue**, **javascript**
+- 📫 Reach me: [twitter.com/_nsa94](https://twitter.com/_nsa94)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
