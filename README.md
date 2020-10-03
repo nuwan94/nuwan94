@@ -2,6 +2,8 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=nuwan94)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nuwan94)
+
 #### I'm a Full-Stack Developer in Gampaha, Sri Lanka.
 
 - 🏢 I'm currently studying at **University of Kelaniya**
